@@ -6,6 +6,9 @@
 
 The goal of this project is to implement a simple classifier using Python and popular machine learning libraries, such as scikit-learn. The focus will be on developing an email spam classifier, utilizing machine learning techniques to differentiate between spam and non-spam emails.
 
+### Scope:
+The project aims to develop a simple email spam classifier using Python and scikit-learn. It encompasses dataset selection, preprocessing, model training, and the creation of a user-friendly interface for real-time email classification.
+
 ### Objectives
 
 1. **Implementing a Basic Classifier:**
